@@ -1,0 +1,11 @@
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\obj\Debug\Vetores.DeleteMultipleItems.resources
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\obj\Debug\Vetores.Form1.resources
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\obj\Debug\Vetores.Properties.Resources.resources
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\obj\Debug\Vetores.csproj.GenerateResource.cache
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Users\Ribeiro550_EXE\Documents\GitHub\DataInfoProgram\Vetores\Vetores\obj\Debug\Vetores.pdb

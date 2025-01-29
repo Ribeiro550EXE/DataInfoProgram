@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\deletemultipleitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|solutionrelative:deletemultipleitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\deletemultipleitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|solutionrelative:deletemultipleitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\deletemultipleitems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|solutionrelative:deletemultipleitems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|c:\\users\\ribeiro550_exe\\documents\\github\\datainfoprogram\\vetores\\vetores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|c:\\users\\ribeiro550_exe\\documents\\github\\datainfoprogram\\vetores\\vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|c:\\users\\ribeiro550_exe\\documents\\github\\datainfoprogram\\vetores\\vetores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57ED40A7-3324-4E8E-82C5-5D239044AB69}|Vetores.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:02:01.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAawPsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:35:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:45:00.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteMultipleItems.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\DeleteMultipleItems.cs",
+              "RelativeDocumentMoniker": "DeleteMultipleItems.cs",
+              "ToolTip": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\DeleteMultipleItems.cs [Design]*",
+              "RelativeToolTip": "DeleteMultipleItems.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:36:34.097Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteMultipleItems.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\DeleteMultipleItems.Designer.cs",
+              "RelativeDocumentMoniker": "DeleteMultipleItems.Designer.cs",
+              "ToolTip": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\DeleteMultipleItems.Designer.cs",
+              "RelativeToolTip": "DeleteMultipleItems.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCwBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:36:24.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteMultipleItems.cs",
+              "DocumentMoniker": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\DeleteMultipleItems.cs",
+              "RelativeDocumentMoniker": "DeleteMultipleItems.cs",
+              "ToolTip": "C:\\Users\\Ribeiro550_EXE\\Documents\\GitHub\\DataInfoProgram\\Vetores\\Vetores\\DeleteMultipleItems.cs*",
+              "RelativeToolTip": "DeleteMultipleItems.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAASwDkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:36:22.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
