@@ -44,12 +44,11 @@
             this.MultipleFiles = new System.Windows.Forms.CheckedListBox();
             this.BTPLUSPATH = new System.Windows.Forms.Button();
             this.CheckCheck = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.LOGOCOMPANY = new System.Windows.Forms.PictureBox();
             this.PAthLB = new System.Windows.Forms.Label();
             this.TXTPATH = new System.Windows.Forms.TextBox();
             this.CompressTEXT = new System.Windows.Forms.Label();
-            this.ListBCOmpress = new System.Windows.Forms.CheckedListBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.LOGOCOMPANY)).BeginInit();
             this.SuspendLayout();
             // 
             // BTFDeleteMultipleFiles
@@ -182,9 +181,9 @@
             // MultipleFiles
             // 
             this.MultipleFiles.FormattingEnabled = true;
-            this.MultipleFiles.Location = new System.Drawing.Point(174, 346);
+            this.MultipleFiles.Location = new System.Drawing.Point(174, 360);
             this.MultipleFiles.Name = "MultipleFiles";
-            this.MultipleFiles.Size = new System.Drawing.Size(659, 280);
+            this.MultipleFiles.Size = new System.Drawing.Size(1025, 280);
             this.MultipleFiles.TabIndex = 36;
             // 
             // BTPLUSPATH
@@ -210,14 +209,14 @@
             this.CheckCheck.UseVisualStyleBackColor = true;
             this.CheckCheck.Click += new System.EventHandler(this.button2_Click);
             // 
-            // pictureBox1
+            // LOGOCOMPANY
             // 
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(936, 444);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox1.TabIndex = 39;
-            this.pictureBox1.TabStop = false;
+            this.LOGOCOMPANY.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.LOGOCOMPANY.Location = new System.Drawing.Point(1237, 413);
+            this.LOGOCOMPANY.Name = "LOGOCOMPANY";
+            this.LOGOCOMPANY.Size = new System.Drawing.Size(300, 300);
+            this.LOGOCOMPANY.TabIndex = 39;
+            this.LOGOCOMPANY.TabStop = false;
             // 
             // PAthLB
             // 
@@ -245,24 +244,15 @@
             this.CompressTEXT.TabIndex = 42;
             this.CompressTEXT.Text = "Compressed";
             // 
-            // ListBCOmpress
-            // 
-            this.ListBCOmpress.FormattingEnabled = true;
-            this.ListBCOmpress.Location = new System.Drawing.Point(1090, 346);
-            this.ListBCOmpress.Name = "ListBCOmpress";
-            this.ListBCOmpress.Size = new System.Drawing.Size(659, 280);
-            this.ListBCOmpress.TabIndex = 43;
-            // 
             // DeleteMultipleItems
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1897, 950);
-            this.Controls.Add(this.ListBCOmpress);
             this.Controls.Add(this.CompressTEXT);
             this.Controls.Add(this.TXTPATH);
             this.Controls.Add(this.PAthLB);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.LOGOCOMPANY);
             this.Controls.Add(this.CheckCheck);
             this.Controls.Add(this.BTPLUSPATH);
             this.Controls.Add(this.MultipleFiles);
@@ -282,7 +272,7 @@
             this.Name = "DeleteMultipleItems";
             this.Text = "DeleteMultiple";
             this.Load += new System.EventHandler(this.DeleteMultipleItems_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.LOGOCOMPANY)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -306,10 +296,9 @@
         private System.Windows.Forms.CheckedListBox MultipleFiles;
         private System.Windows.Forms.Button BTPLUSPATH;
         private System.Windows.Forms.Button CheckCheck;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox LOGOCOMPANY;
         private System.Windows.Forms.Label PAthLB;
         private System.Windows.Forms.TextBox TXTPATH;
         private System.Windows.Forms.Label CompressTEXT;
-        private System.Windows.Forms.CheckedListBox ListBCOmpress;
     }
 }

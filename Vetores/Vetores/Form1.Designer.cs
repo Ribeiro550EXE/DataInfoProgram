@@ -173,7 +173,7 @@
             // LName
             // 
             this.LName.AutoSize = true;
-            this.LName.Location = new System.Drawing.Point(363, 175);
+            this.LName.Location = new System.Drawing.Point(362, 218);
             this.LName.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LName.Name = "LName";
             this.LName.Size = new System.Drawing.Size(13, 20);
@@ -248,6 +248,7 @@
             this.ReadFilesRTB.Size = new System.Drawing.Size(90, 20);
             this.ReadFilesRTB.TabIndex = 19;
             this.ReadFilesRTB.Text = "000000000";
+            this.ReadFilesRTB.Click += new System.EventHandler(this.ReadFilesRTB_Click);
             // 
             // FRFile
             // 
@@ -352,7 +353,7 @@
             this.Controls.Add(this.BAddContact);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "InfoDataProgram";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

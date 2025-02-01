@@ -22,6 +22,7 @@ namespace Vetores
         public TextBox TB1;
         string path = Environment.CurrentDirectory;
         string pathS = Environment.CurrentDirectory + ("\\Students\\");
+        string pathSD = Environment.CurrentDirectory + ("\\StudentsDeleted\\");
         //string pathI = Environment.CurrentDirectory + ("\\IMG\\");
         //string N, L;
         int i = 1;
@@ -250,8 +251,13 @@ namespace Vetores
         private void BTDeleteMultipleFiles_Click(object sender, EventArgs e)
         {
             Form DeleteMFF = new DeleteMultipleItems();
-            DeleteMultipleItems.instance.LockPath(pathS);
+            DeleteMultipleItems.instance.LockPath(pathS, pathSD);
             DeleteMFF.Show();
+        }
+
+        private void ReadFilesRTB_Click(object sender, EventArgs e)
+        {
+
         }
     }
     public class Contact

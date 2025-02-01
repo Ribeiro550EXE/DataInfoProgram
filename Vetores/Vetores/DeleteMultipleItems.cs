@@ -15,9 +15,11 @@ namespace Vetores
     
     public partial class DeleteMultipleItems : Form
     {
+        string path = Environment.CurrentDirectory;
         public static DeleteMultipleItems instance;
         public TextBox TB1;
         string lockedPath;
+        string MovePATH;
         public DeleteMultipleItems()
         {
             InitializeComponent();
@@ -53,10 +55,8 @@ namespace Vetores
                 foreach (FileInfo file_info in dir_info.GetFiles(PattrenTXT.Text, SearchOption.AllDirectories))
                 {
                     //string compressinfo = compress(file_info.FullName);
-                    int index = MultipleFiles.Items.Add(file_info);
-                    MultipleFiles.SetItemChecked(index, true);
-                    int index1 = ListBCOmpress.Items.Add(file_info.FullName);
-                    ListBCOmpress.SetItemChecked(index1, true);
+                    int index = MultipleFiles.Items.Add(file_info.FullName);
+                    MultipleFiles.SetItemChecked(index, false);
                 }
                 ReadNUMFilesRTB.Text = MultipleFiles.Items.Count + "files found";
                 BTFDeleteFile.Enabled = MultipleFiles.CheckedIndices.Count > 0;
@@ -73,10 +73,11 @@ namespace Vetores
             MultipleFiles.CheckedItems.CopyTo(filenames, 0);
 
             foreach (string filename in filenames) 
-            { 
+            {
                 Console.WriteLine(filename);
                 try
                 {
+                    MessageBox.Show("Deleting file " + filename);
                     File.Delete(filename);
                     MultipleFiles.Items.Remove(filename);
                 }
@@ -93,7 +94,7 @@ namespace Vetores
             }
             ReadNUMFilesRTB.Text = MultipleFiles.Items.Count + "files found";
             BTFDeleteFile.Enabled = MultipleFiles.CheckedIndices.Count > 0;
-        }
+        }   
 
         private void BTFDeleteFile_Click(object sender, EventArgs e)
         {
@@ -107,10 +108,10 @@ namespace Vetores
 
         private void DeleteMultipleItems_Load(object sender, EventArgs e)
         {
-
+            LOGOCOMPANY.BackgroundImage = Image.FromFile(path + "\\IMG\\LOGOCOMPANY.png");
         }
 
-        public void LockPath(string path)
+        public void LockPath(string path,string path2)
         {
             lockedPath = path;
             PathTxt.Text = path;
@@ -118,7 +119,8 @@ namespace Vetores
             PathTxt.Enabled = false;
             BTPLUSPATH.Enabled = false;
 
-            
+            MovePATH = path2;
+
             string AbCompress = compress(path);
             CompressTEXT.Text = AbCompress;
 
